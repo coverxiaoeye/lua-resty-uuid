@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lua-resty-uuid"
-version = "1.0-1"
+version = "1.1-1"
 -- LuaDist source
 source = {
-  tag = "1.0-1",
-  url = "git://github.com/LuaDist2/lua-resty-uuid.git"
+  url = "git://github.com/LuaDist2/lua-resty-uuid.git",
+  tag = "1.1-1"
 }
 -- Original source
 -- source = {
 --     url = "git://github.com/bungle/lua-resty-uuid.git",
---     branch = "v1.0"
+--     branch = "v1.1"
 -- }
 description = {
     summary = "DCE compatible Universally Unique Identifier (UUID/GUID) library",
